@@ -104,7 +104,7 @@ boundary between new work and unsupported premises are also recorded there.
 ## Submission files
 
 ```text
-contract/HiddenPremiseGuard.py
+HiddenPremiseGuard.py
 README.md
 TESTING.md
 ```
